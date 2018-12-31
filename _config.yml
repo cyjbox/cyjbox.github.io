@@ -1,1 +1,12 @@
+title: 雨后清晨的网络随笔
+author: 雨后清晨
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  软件开发、工业控制、电子设备
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-architect
