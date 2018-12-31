@@ -33,7 +33,9 @@ tags: [GitHub,fork]
 ### 3. 把自己的修改提交给源项目作者
 当你想把自己的修改提交到源项目时，可以通过GitHub提交一个`pull request`，你的修改提交后，可以在源项目的`pull request`页面与项目参与者讨论审查你提交的代码，在你提交的代码并入源项目前，你也可以进行修改，当你提交的代码通过审查后，就会被源项目作者并入源项目。
 
-- 参考文档：  
+---
+
+#### 参考文档：  
 [Fork a repo](https://help.github.com/articles/fork-a-repo/)  
 [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)  
 [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
