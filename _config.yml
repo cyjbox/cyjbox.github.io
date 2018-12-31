@@ -10,11 +10,3 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-cayman
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      typr: "posts"
-    values:
-      layout: "default"
